@@ -1,0 +1,32 @@
+id: 1
+Username: Admin
+Email: admin@littlelemon.com
+Password: lemon@adm!
+authorization token: 278451fd5ea44342ea2163fe6a080d678101e78b
+
+Manager:
+id: 3
+Username: Manager
+Email: manager@littlelemon.com
+Password: lemon@man!
+authorization token: be2fc3a7d95ae5be51a5fceb9f86f9283a50ef6a
+
+Delivery Crew:
+id: 4
+Username: DeliveryCrew
+Email: delivery_crew@littlelemon.com
+Password: lemon@del!
+authorization token: 096ebf9ec058ff025007e25465be97dc6c3139e3
+
+Customer
+id: 2
+Username: Customer
+Email: customer@littlelemon.com
+Password: lemon@cus!
+authorization token: 9d1d5696e69283b49b5259e377b908b9344a8252
+
+id: 5
+Username: User1
+Email: user1@gmail.com
+P@ssword1!
+auth_token: 0e22ecbcb7de65508b4d9da2b3755dffbef6d21d
